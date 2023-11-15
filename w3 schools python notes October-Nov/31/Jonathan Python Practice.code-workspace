@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"python.analysis.extraPaths": [
+			"/Users/jonathanpierre/my_module.py"
+		]
+	}
+}
