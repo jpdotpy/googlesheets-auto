@@ -145,5 +145,5 @@ print("Update successful!")
 
 
 
-
+#Serves as a check to ensure everything is running smoothly
 print(sheet_instance1.col_count)
